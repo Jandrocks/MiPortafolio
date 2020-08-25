@@ -46,6 +46,9 @@ header h1{
 footer{
     font-size: 3rem;
 }
+footer a{
+    color: #ffffff;
+}
 .icon{
     display: inline-block;
 
